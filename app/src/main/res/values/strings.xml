@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">android-lab3</string>
+    <string name="search_edit_text_hint">Enter a request…</string>
+    <string name="apikey">pub_34302e4ba706a52fad8cf2b067d0b0b16333c</string>
+    <string name="language">en</string>
+    <string name="magnifier">magnifier</string>
+</resources>
